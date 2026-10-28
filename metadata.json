@@ -1,0 +1,6 @@
+{
+  "name": "Connect AI",
+  "description": "Automated AI business communication, social media, CRM, and global marketplace platform.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
